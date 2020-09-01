@@ -1,5 +1,5 @@
 # React Tic Tac Toe Tutorial Implemented Using Typoescript
-This is project created following the official tutorial and modified to use typescript.
+This project has been created following the official tutorial and modified to use typescript.
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
